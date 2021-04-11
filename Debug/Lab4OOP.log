@@ -1,0 +1,14 @@
+﻿  CollisionManager.cpp
+C:\Users\Ivan\source\repos\Lab4OOP\CollisionManager.h(14,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+  GeometricProgram.cpp
+C:\Users\Ivan\source\repos\Lab4OOP\CollisionManager.h(14,2): warning C4091: 'static ': ignored on left of 'CollisionManager' when no variable is declared
+  DoubleValidator.cpp
+C:\Users\Ivan\source\repos\Lab4OOP\DoubleValidator.h(14,2): warning C4091: 'static ': ignored on left of 'DoubleValidator' when no variable is declared
+  main.cpp
+  Point.cpp
+  Rectangle.cpp
+C:\Users\Ivan\source\repos\Lab4OOP\DoubleValidator.h(14,2): warning C4091: 'static ': ignored on left of 'DoubleValidator' when no variable is declared
+  Ring.cpp
+C:\Users\Ivan\source\repos\Lab4OOP\DoubleValidator.h(14,2): warning C4091: 'static ': ignored on left of 'DoubleValidator' when no variable is declared
+  Generating Code...
+  Lab4OOP.vcxproj -> C:\Users\Ivan\source\repos\Lab4OOP\Debug\Lab4OOP.exe
